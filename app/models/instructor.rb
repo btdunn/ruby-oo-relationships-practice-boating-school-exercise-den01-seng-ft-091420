@@ -1,5 +1,5 @@
 class Instructor
-  
+
   @@all = []
 
   def initialize(name)
